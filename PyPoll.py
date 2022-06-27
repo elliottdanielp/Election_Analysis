@@ -116,7 +116,7 @@ for candidate_name in candidate_votes:
 
     #  To do: print out each candidate's name, vote count, and percentage of
     # votes to the terminal.
-    print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
+    print(f"\n{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
     # Determine winning vote count and candidate
 
