@@ -84,8 +84,11 @@ with open(file_to_load) as election_data:
         # Print the candidate name for each row
         candidate_name = row[2]
 
-        # Add Candidate name to candidate list.
-        candidate_option.append(candidate_name)
+        #If statement to check if candidate does not match any existing candidate.
+        if candidate_name not in candidate_option:
+
+            #Add to list of candidates.
+            candidate_option.append(candidate_name)
 
 # Print the total votes.
 print(candidate_option)
