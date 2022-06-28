@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+A Colorado Board of Elections employee has asked for the following tasks to complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes casst. 
 2. Get a complete lis of candiddates who recived votes. 
@@ -34,4 +34,4 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
   
   ## Challenge Summary
-  
+  This script can be modified to be used for any election audit. It automates the analysis process and provides a detailed report, by going through the data set from     one file and creating a new text file with the results. The path to the data set file can be modified to look at any .csv you need by changing a few Variables. You     can also change the format of the printing statements to be revelant to any election you need.  
