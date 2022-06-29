@@ -33,9 +33,15 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
   
+  
   [election_analysis.txt](https://github.com/elliottdanielp/Election_Analysis/files/9001629/election_analysis.txt)
   
+  ### .txt screenshot
   ![election_analysis txt_notepad](https://user-images.githubusercontent.com/106495422/176196214-95b1ebc1-e369-4581-b1e0-65dace84437f.png)
+  
+  ### vsc terminal screenshot
+  ![PyPoll_Challenge py_Election_Analysis_Visual_Studio_Code](https://user-images.githubusercontent.com/106495422/176328865-b5d7cdd4-d0e7-43de-9bcb-2b52714b29f5.png)
+  
   
   ## Challenge Summary
   This script can be modified to be used for any election audit. It automates the analysis process and provides a detailed report, by going through the data set from     one file and creating a new text file with the results. The path to the data set file can be modified to look at any .csv you need by changing a few Variables. You     can also change the format of the printing statements to be revelant to any election you need.  
